@@ -18,6 +18,7 @@ plot_sar(I,99);
 I = abs(I);
 th = prctile(I(:),98);
 imwrite(imresize(min(I,th)/th,[6000 2000]),'result.jpg')
-![test2](https://github.com/user-attachments/assets/2a8de023-ec7d-4d6e-86d3-92f4fecf3daa)
+
+![result](https://github.com/user-attachments/assets/f4a1540b-6c11-4998-ac2e-435e454213fd)
 
 
