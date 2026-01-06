@@ -13,7 +13,9 @@ opt.block_len = [800 1600];
 I = pcm_fcs(data,opt);
 figure
 plot_sar(I,99); 
-
+I = abs(I);
+th = prctile(I(:),98);
+imwrite(imresize(min(I,th)/th,[1000 500]),'test2.jpg')
 ![test2](https://github.com/user-attachments/assets/2a8de023-ec7d-4d6e-86d3-92f4fecf3daa)
 
 
