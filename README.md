@@ -14,6 +14,6 @@ I = pcm_fcs(data,opt);
 figure
 plot_sar(I,99); 
 
-![test2](https://github.com/user-attachments/assets/eb6ae006-3124-4919-b1f3-394edf9202be)
+![test2](https://github.com/user-attachments/assets/2a8de023-ec7d-4d6e-86d3-92f4fecf3daa)
 
 
