@@ -1,4 +1,4 @@
-# pcm
+# Principal Component Maximization (PCM)
 Matlab program for the PCM algorithm for SAR image formation from raw data.
 
 Paper:
