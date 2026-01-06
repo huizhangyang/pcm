@@ -19,6 +19,4 @@ I = abs(I);
 th = prctile(I(:),98);
 imwrite(imresize(min(I,th)/th,[6000 2000]),'result.jpg')
 
-![result](https://github.com/user-attachments/assets/f4a1540b-6c11-4998-ac2e-435e454213fd)
-
-
+![result](https://github.com/user-attachments/assets/31d6c30f-b35c-460d-bdea-857a35111b89)
