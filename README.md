@@ -4,7 +4,7 @@ Matlab program for the PCM algorithm for SAR image formation from raw data.
 Paper:
 Huizhang Yang et al. Principal Component Maximization: A Novel Method for SAR Image Recovery from Raw Data without System Parameters, IEEE TIP, 2026.
 
-Please contact Huizhang Yang if you have any questions.
+Please contact Huizhang Yang if you need the source code of pcm_fcs.p or have any questions.
 Email: hzyang@njust.edu.cn
 
 Raw data:  https://pan.baidu.com/s/1RIcTl1nNCbonK-avohBi8g?pwd=u2sh
